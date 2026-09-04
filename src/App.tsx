@@ -402,12 +402,23 @@ export default function App() {
 
       {/* Footer */}
       <footer className="border-t border-slate-800/80 bg-slate-950/90 py-6 text-center text-xs text-slate-400">
-        <div className="max-w-7xl mx-auto px-4 space-y-1">
-          <p className="font-serif font-semibold text-slate-300">
+        <div className="max-w-7xl mx-auto px-4 space-y-2">
+          <p className="font-serif font-semibold text-slate-300 text-sm">
             Blox Fruits Guide & Obtainment Compendium
           </p>
           <p className="font-mono text-[11px] text-slate-400">
-            Covering Swords, Fighting Styles, Fruits, Guns, and Accessories for First, Second, and Third Sea.
+            Created & Maintained by <span className="font-bold text-amber-300">Wafi Ul Karim Chowdhury</span> • Follow on Instagram:{' '}
+            <a
+              href="https://www.instagram.com/wafi_ul_karim_chowdhury2/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-rose-400 hover:text-rose-300 underline font-semibold transition-colors"
+            >
+              @wafi_ul_karim_chowdhury2
+            </a>
+          </p>
+          <p className="text-[10px] text-slate-500 font-mono">
+            Covering Swords, Fighting Styles, Fruits, Guns, and Accessories across all three seas.
           </p>
         </div>
       </footer>
