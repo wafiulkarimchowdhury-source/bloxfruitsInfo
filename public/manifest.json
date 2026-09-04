@@ -1,0 +1,12 @@
+{
+  "background_color": "#000000",
+  "description": "Comprehensive searchable database and obtainment guide for Blox Fruits swords, fighting styles, fruits, guns, and accessories across all three seas.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "BloxFruitsInfo",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "bloxfruits-info",
+  "start_url": "/",
+  "theme_color": "#ed62ed"
+}
