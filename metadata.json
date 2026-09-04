@@ -1,0 +1,6 @@
+{
+  "name": "Blox Fruits Guide",
+  "description": "Comprehensive searchable database and obtainment guide for Blox Fruits swords, fighting styles, fruits, guns, and accessories across all three seas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
