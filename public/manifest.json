@@ -8,5 +8,12 @@
   "scope": "/",
   "short_name": "bloxfruits-info",
   "start_url": "/",
-  "theme_color": "#ed62ed"
+  "theme_color": "#ed62ed",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
